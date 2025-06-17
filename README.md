@@ -10,12 +10,13 @@ Future plans for this repository include adding a sample data file and Jupyter n
 
 ### About Me
 
-I am Becky, and I work at **DMACC**. Data Science is one of my passions.
+My name is Becky, and I work at **DMACC**. Data Science is one of my passions along with Artifical Intelligence (AI).
 My data science competencies include:
 -   Computer Applications
--   Artificial Intelligence
+-   Artificial Intelligence(AI)
 -   Python Programming
 -   Data Wrangling
 
-In order to test the inclusion of a photograph, I've included a photo of Canadian Geese that I took while out hking with my Labrador Retriever.
-	![alt text](20250502_201410.jpg)
+In order to test the inclusion of a photograph, I've included a photo of Canadian Geese that I took while out hiking with my Labrador Retriever.
+ <img src="20250502_201410.jpg" alt="Two Canadian Geese standing on log in the water at a park" >
+ 
