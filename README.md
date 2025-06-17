@@ -10,12 +10,12 @@ Future plans for this repository include adding a sample data file and Jupyter n
 
 ### About Me
 
-I am Becky, and I work at DMACC. Data Science is one of my passions.
+I am Becky, and I work at **DMACC**. Data Science is one of my passions.
 My data science competencies include:
 -   Computer Applications
--   Managing Project through Github
+-   Artificial Intelligence
 -   Python Programming
 -   Data Wrangling
 
 In order to test the inclusion of a photograph, I've included a photo of Canadian Geese that I took while out hking with my Labrador Retriever.
-	![alt text](image.jpg)
+	![alt text](20250502_201410.jpg)
