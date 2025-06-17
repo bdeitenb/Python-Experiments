@@ -6,7 +6,7 @@ This repository contains the inital code I created when learning how to use Gith
 
 ### Plan
 
-Future plans for this repository include adding a sample data file and Jupyter notebook that will interact with the file.
+Future plans for this repository include adding a sample data file and [Jupyter notebook](https://www.https://jupyter.org/) that will interact with the file.
 
 ### About Me
 
@@ -18,5 +18,6 @@ My data science competencies include:
 -   Data Wrangling
 
 In order to test the inclusion of a photograph, I've included a photo of Canadian Geese that I took while out hiking with my Labrador Retriever.
+
  <img src="20250502_201410.jpg" alt="Two Canadian Geese standing on log in the water at a park" >
  
